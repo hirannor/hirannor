@@ -6,11 +6,9 @@
 
 ## 👨‍💻 About Me
 
-I'm Máté Károlyi, a software engineer passionate about delivering high-quality, scalable solutions using modern web technologies and software architectures. 
-I'm always excited about finding ways to create better software systems that meet real-world requirements in a clean, maintainable way.
+I'm Máté Károlyi, a software engineer with 9 years of experience, primarily working with Java and the Spring framework. I'm passionate about delivering high-quality, scalable solutions using modern web technologies and software architectures. I’m currently focused on deepening my knowledge of software architectures and Domain-Driven Design (DDD) principles.
 
-- 🌱 I’m currently diving deep into **.NET** and enhancing my expertise in **async C# development**.
-- 👯 I’m looking to collaborate on open-source projects that involve **clean architecture** and **microservices**.
+- 🌱 I’m currently diving deep into **software architectures** and the **DDD design**.
 - 📫 How to reach me: [mate_karolyi@outlook.com](mate_karolyi@outlook.com)
 
 ## 🚀 Projects
