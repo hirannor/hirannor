@@ -8,7 +8,7 @@
 
 I'm Máté Károlyi, a software engineer with 9 years of experience, primarily working with Java and the Spring framework. I'm passionate about delivering high-quality, scalable solutions using modern web technologies and software architectures. I’m currently focused on deepening my knowledge of software architectures and Domain-Driven Design (DDD) principles.
 
-- 🌱 I’m currently diving deep into **software architectures** and the **DDD design**.
+- 🌱 I’m currently diving deep into **software architectures** and the **Domain-Driven Design (DDD) principles**.
 - 📫 How to reach me: [mate_karolyi@outlook.com](mate_karolyi@outlook.com)
 
 ## 🚀 Projects
