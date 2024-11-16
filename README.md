@@ -27,7 +27,7 @@ I'm Máté Károlyi, a software engineer with 9 years of experience, primarily w
 
 ## 🖥️ My Desktop
 
-![Setup](\images\pc.jpg)
+![Setup](/images/pc.jpg)
 
 ## 📊 GitHub Stats
 
