@@ -25,11 +25,14 @@ I'm Máté Károlyi, a software engineer with 9 years of experience, primarily w
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
 
+## 🖥️ My Desktop
+
+![Setup](\images\pc.jpg)
+
 ## 📊 GitHub Stats
 
 ![Máté's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirannor&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirannor&layout=compact&theme=radical)
 
----
 
 Thank you for visiting my profile! Feel free to check out my repositories and connect with me on LinkedIn.
