@@ -47,14 +47,15 @@ Here are some of my notable repositories showcasing my passion for software arch
 | **Overall Setup**         | A high-quality image showcasing my entire desktop setup, including all components.      |  ![Setup](/images/pc.jpg)    |
 | **Primary Monitor**       | AOC Q27G4X 27" QHD IPS 180Hz Gaming monitor                                              |                                                       |
 | **Secondary Monitor**     | AOC 24G2U/BK 24" FHD IPS 144Hz Gaming monitor                                            |                                                       |
-| **Motherboard**           | GIGABYTE X570 UD                                                                        |                                                       |
-| **CPU**                   | AMD RYZEN 5 5600x AM4 3.7GHz BOX                                                       |                                                       |
-| **CPU Cooler**            | Cooler Master Hyper 212 LED Turbo Red Cover                                            |                                                       |
-| **Memory**                | CORSAIR 16GB Vengeance LPX DDR4 3000MHz CL15 KIT, Crucial 16GB KIT DDR4 3000MHz CL15      |                                                       |
+| **Motherboard**           | GIGABYTE B650 EAGLE                                                                       |                                                       |
+| **CPU**                   | AMD Ryzen 7 9700X                                                |                                                       |
+| **CPU Cooler**            | ARCTIC Liquid Freezer III 280 Black                                          |                                                       |
+| **Memory**                | G.SKILL 32GB KIT DDR5 6000MT/s CL30 Ripjaws M5 RGB Black      |                                                       |
 | **GPU**                   | ASUS DUAL GeForce RTX 4070 EVO O12G GDDR6                                              |                                                       |
 | **HDD**                   | WESTERN DIGITAL 1TB 5400RPM SATA-600 64MB BLUE                                          |                                                       |
-| **SSD**                   | GIGABYTE AORUS Gen 4 SSD 500GB                                                         |                                                       |
-| **Computer Case**         | Cooler Master MasterBox Lite 5 Window Black                                            |                                                       |
+| **Primary SSD**           | GIGABYTE AORUS Gen 4 SSD 500GB                                                         |                                                       |
+| **Secondary SSD**         | Samsung 990 PRO 1TB                                                       |                                                       |
+| **Computer Case**         | be quiet! Pure Base 500DX Black                                     |                                                       |
 | **PSU**                   | Seasonic Focus GX-750 ATX 3.0 ATX                                                      |                                                       |
 | **Mouse**                 | Razer DeathAdder V3                                                                     |                                                       |
 | **Mouse Pad**             | GMB Gaming                                                                               |                                                       |
