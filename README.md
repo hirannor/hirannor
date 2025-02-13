@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Máté Károlyi**, a passionate software engineer with over **9 years of experience** in building robust, scalable, and maintainable solutions. My expertise lies in **Java**, **Spring Framework**, and more recently, **C#** and **ASP.NET Core**, with a deep interest in **Domain-Driven Design (DDD)** and **software architecture**.
+I'm **Máté Károlyi**, a passionate software engineer with over **10 years of experience** in building robust, scalable, and maintainable solutions. My expertise lies in **Java**, **Spring Framework**, and more recently, **C#** and **ASP.NET Core**, with a deep interest in **Domain-Driven Design (DDD)** and **software architecture**.
 
 - 🌱 Currently deepening my knowledge in **Hexagonal Architecture** and **DDD principles**.
 - 💼 I enjoy exploring clean code practices, modular design, and delivering high-quality software.
