@@ -14,20 +14,6 @@ I'm **Máté Károlyi**, a passionate software engineer with over **10 years of 
 - 💼 I enjoy exploring clean code practices, modular design, and delivering high-quality software.
 - 📫 Feel free to reach out at: [mate_karolyi@outlook.com](mailto:mate_karolyi@outlook.com).
 
----
-
-## 🚀 Projects
-
-Here are some of my notable repositories showcasing my passion for software architecture:
-
-- **[Spring Boot Hexagonal DDD](https://github.com/hirannor/springboot-hexagonal-ddd)**  
-  A project demonstrating Hexagonal Architecture and DDD principles using Spring Boot.
-  
-- **[ASP.NET Hexagonal Architecture](https://github.com/hirannor/hexagonal-architecture-asp-net-core)**  
-  A project showcasing Hexagonal Architecture in ASP.NET Core with Domain-Driven Design.
-
----
-
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -37,7 +23,18 @@ Here are some of my notable repositories showcasing my passion for software arch
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=microsoft-sql-server&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
+---
+
+## 🚀 Projects
+
+Here are some of my notable repositories showcasing my passion for software architecture:
+
+- **[Spring Boot Hexagonal DDD](https://github.com/hirannor/springboot-hexagonal-ddd)**  
+  A project demonstrating Hexagonal Architecture and DDD principles using Spring Boot.
 ---
 
 ## 🖥️ My Desktop Setup
@@ -58,7 +55,7 @@ Here are some of my notable repositories showcasing my passion for software arch
 | **Computer Case**         | be quiet! Pure Base 500DX Black                                     |                                                       |
 | **PSU**                   | Seasonic Focus GX-750 ATX 3.0 ATX                                                      |                                                       |
 | **Mouse**                 | Razer DeathAdder V3                                                                     |                                                       |
-| **Mouse Pad**             | GMB Gaming                                                                               |                                                       |
+| **Mouse Pad**             | Razer Gigantus V2 XXL                                                                               |                                                       |
 | **Keyboard**              | Razer Huntsman V2 (Purple Switch)                                                      |                                                       |
 | **Headset**               | Razer Kraken Ultimate RGB USB Gaming Headset                                            |                                                       |
 | **Webcam**                | Logitech C922 Pro Stream                                                                |                                                       |
@@ -72,7 +69,7 @@ Here are some of my notable repositories showcasing my passion for software arch
 | **Capture Card #1**       | CreHiVi 4K 120FPS HDMI-USB                                                              |                                                       |
 | **Capture Card #2**       | Hama 74257 4K 30FPS HDMI-USB                                                            |                                                       |
 | **Key Light**             | VILTROX L132T LED                                                                        |                                                       |
-| **Fill Light**            | VILTROX L116T LED                                                                        |                                                       |
+| **Fill Light**            | VILTROX L132T LED                                                                        |                                                       |
 
 
 ## 📊 GitHub Stats
