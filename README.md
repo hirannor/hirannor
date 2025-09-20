@@ -33,7 +33,7 @@ I'm **Máté Károlyi**, a passionate software engineer with over **10 years of 
 
 Here are some of my notable repositories showcasing my passion for software architecture:
 
-- **[Spring Boot Hexagonal DDD](https://github.com/hirannor/springboot-hexagonal-ddd)**  
+- **[Order Management System with Hexagonal Architecture & DDD](https://github.com/hirannor/oms-hexagonal-architecture-ddd)**  
   A project demonstrating Hexagonal Architecture and DDD principles using Spring Boot.
 ---
 
