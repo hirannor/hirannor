@@ -38,6 +38,9 @@ Also experienced with TypeScript and Angular, applying RxJS and NgRx to build re
 
 Here are some of my notable repositories showcasing my passion for software architecture:
 
+- **[Hexagonal Architecture & DDD with NestJS Ecosystem](https://github.com/hirannor/hexagonal-ddd-nestjs)**  
+  A project demonstrating Hexagonal Architecture and DDD principles using NestJS.
+---
 - **[Order Management System with Hexagonal Architecture & DDD](https://github.com/hirannor/oms-hexagonal-architecture-ddd)**  
   A project demonstrating Hexagonal Architecture and DDD principles using Spring Boot.
 ---
