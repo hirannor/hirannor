@@ -37,7 +37,9 @@ Also experienced with TypeScript and Angular, applying RxJS and NgRx to build re
 ## 🚀 Projects
 
 Here are some of my notable repositories showcasing my passion for software architecture:
-
+- **[HexaDocs](https://github.com/hirannor/HexaDocs)**  
+  A domain-driven, event-driven document intelligence system built with Hexagonal Architecture, enabling semantic document ingestion, vector search, and AI-powered question answering (RAG).
+  
 - **[Hexagonal Architecture & DDD with NestJS Ecosystem](https://github.com/hirannor/hexagonal-ddd-nestjs)**  
   A project demonstrating Hexagonal Architecture and DDD principles using NestJS.
 ---
